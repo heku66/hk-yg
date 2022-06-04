@@ -1,3 +1,7 @@
+Heroku三合一协议共存项目地址：https://github.com/ygkkkyb/heroku-vlvmtw
+
+1、在浏览器复制链接   https://dashboard.heroku.com/new?template= 加上你自定义的项目链接
+
 有很多反馈说heroku被秒封！建议先用其他的heroku项目或先避开当前的敏感期
 
 ### 请勿fork，请勿fork，请勿fork，点个Star就好了
